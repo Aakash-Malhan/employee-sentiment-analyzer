@@ -3,7 +3,7 @@
 
 A natural language processing dashboard that analyzes 67,529 real Glassdoor employee reviews across Amazon, Apple, Facebook, Google, Microsoft, and Netflix using VADER sentiment scoring and LDA topic modeling.
 
-🔗 **[Live App on Hugging Face Spaces]([https://huggingface.co/spaces/aakash-malhan/employee-sentiment-analyzer](https://huggingface.co/spaces/aakash-malhan/employee-sentiment-analyzer))**
+Demo - https://huggingface.co/spaces/aakash-malhan/employee-sentiment-analyzer
 
 ---
 
